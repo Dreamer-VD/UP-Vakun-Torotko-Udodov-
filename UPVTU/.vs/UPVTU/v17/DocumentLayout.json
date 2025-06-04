@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Downloads\\UPVT\\UPVTU\\",
+  "WorkspaceRootPath": "C:\\Users\\Dreamer\\Desktop\\1 \u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041E\u043A\u043E\u043D\u0447\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043E\u0442\u0447\u0451\u0442\\UPVTU\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2815E436-BB02-4D8A-AFEF-6EB20BC19393}|UPVTU.vcxproj|D:\\Downloads\\UPVT\\UPVTU\\UPVTU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2815E436-BB02-4D8A-AFEF-6EB20BC19393}|UPVTU.vcxproj|C:\\Users\\Dreamer\\Desktop\\1 \u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041E\u043A\u043E\u043D\u0447\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043E\u0442\u0447\u0451\u0442\\UPVTU\\UPVTU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2815E436-BB02-4D8A-AFEF-6EB20BC19393}|UPVTU.vcxproj|solutionrelative:UPVTU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UPVTU.cpp",
-              "DocumentMoniker": "D:\\Downloads\\UPVT\\UPVTU\\UPVTU.cpp",
+              "DocumentMoniker": "C:\\Users\\Dreamer\\Desktop\\1 \u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041E\u043A\u043E\u043D\u0447\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043E\u0442\u0447\u0451\u0442\\UPVTU\\UPVTU.cpp",
               "RelativeDocumentMoniker": "UPVTU.cpp",
-              "ToolTip": "D:\\Downloads\\UPVT\\UPVTU\\UPVTU.cpp",
+              "ToolTip": "C:\\Users\\Dreamer\\Desktop\\1 \u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041E\u043A\u043E\u043D\u0447\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043E\u0442\u0447\u0451\u0442\\UPVTU\\UPVTU.cpp",
               "RelativeToolTip": "UPVTU.cpp",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAswNYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-04T17:24:25.57Z",
               "EditorCaption": ""
