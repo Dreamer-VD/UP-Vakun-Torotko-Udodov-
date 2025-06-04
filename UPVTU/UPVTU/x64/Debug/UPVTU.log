@@ -1,0 +1,5 @@
+﻿  UPVTU.cpp
+D:\Downloads\UPVT\UPVTU\UPVTU.cpp(30,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Downloads\UPVT\UPVTU\UPVTU.cpp(54,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Downloads\UPVT\UPVTU\UPVTU.cpp(77,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  UPVTU.vcxproj -> D:\Downloads\UPVT\UPVTU\x64\Debug\UPVTU.exe
